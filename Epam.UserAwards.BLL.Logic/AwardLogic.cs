@@ -13,7 +13,7 @@ namespace Epam.UsersAwards.BLL.Logic
 
         public bool EditDescription(int id)
         {
-            throw new System.NotImplementedException();
+            //_awardDAO.
         }
 
         public bool EditTitle(int id)

@@ -1,0 +1,2 @@
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Logic\obj\Debug\Epam.UserAwards.BLL.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Logic\obj\Debug\Epam.UserAwards.BLL.Logic.csproj.CoreCompileInputs.cache

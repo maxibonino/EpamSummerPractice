@@ -6,13 +6,17 @@ namespace Epam.UsersAwards.BLL.Contracts
 {
     public interface IUserLogic
     {
-        bool EditName(int id);
+        User Add(string surname, string name, string birth);
 
-        bool EditBirthDate(int id);
+        bool EditName(int id, string newName);
 
-        bool AddAward();
+        bool EditBirthDate(int id, string newBirthDate);
 
-        bool DeleteAward(Guid id);
+        bool AddAward(int userId, int awardId);
+
+        bool DeleteUser(int id);
+
+        bool DeleteAward(int userId, int awardId);
 
         IEnumerable<User> GetAll();
     }

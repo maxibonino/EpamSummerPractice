@@ -8,6 +8,6 @@ namespace Epam.UsersAwards.IDAO
 {
     public interface IEditPicture
     {
-        bool ChangePhoto(byte[] picture);
+        bool ChangePhoto(int id, byte[] picture);
     }
 }

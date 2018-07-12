@@ -1,0 +1,2 @@
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UsersAwards.Container\obj\Debug\Epam.UsersAwards.Containers.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UsersAwards.Container\obj\Debug\Epam.UsersAwards.Containers.csproj.CoreCompileInputs.cache

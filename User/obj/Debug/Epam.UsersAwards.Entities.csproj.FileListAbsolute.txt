@@ -1,0 +1,6 @@
+C:\Users\Morpheus\source\repos\UserAwards\User\bin\Debug\User.dll
+C:\Users\Morpheus\source\repos\UserAwards\User\bin\Debug\User.pdb
+C:\Users\Morpheus\source\repos\UserAwards\User\obj\Debug\Epam.UsersAwards.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\UserAwards\User\obj\Debug\Epam.UsersAwards.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\UserAwards\User\obj\Debug\User.dll
+C:\Users\Morpheus\source\repos\UserAwards\User\obj\Debug\User.pdb

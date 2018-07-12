@@ -49,9 +49,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Epam.UserAwards.BLL.Contracts\Epam.UsersAwards.BLL.Contracts.csproj">
+      <Project>{ff5585b2-c862-40ba-ba6d-369babb46741}</Project>
+      <Name>Epam.UsersAwards.BLL.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Epam.UsersAwards.Container\Epam.UsersAwards.Containers.csproj">
       <Project>{af99a8c5-8b85-450b-96ac-8b7d3204c0d6}</Project>
       <Name>Epam.UsersAwards.Containers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\User\Epam.UsersAwards.Entities.csproj">
+      <Project>{df91051b-1025-481f-aa85-4ecb4a0c2c3e}</Project>
+      <Name>Epam.UsersAwards.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

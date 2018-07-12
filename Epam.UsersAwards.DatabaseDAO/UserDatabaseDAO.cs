@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Configuration;
-using System.Data.SqlClient;
-using IUserDAO;
+using Epam.UsersAwards.IDAO;
 
 namespace Epam.UsersAwards.DatabaseDAO
 {
@@ -62,5 +57,34 @@ namespace Epam.UsersAwards.DatabaseDAO
         //        }
         //    }
         //}
+        public bool AddAward()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool ChangePhoto(byte[] picture)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool DeleteAward(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool EditBirthDate(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool EditName(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<Entities.User> GetAll()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -53,6 +53,10 @@
       <Project>{b01f5148-77cb-47d4-9cf9-e0a1b16c0990}</Project>
       <Name>Epam.UserAwards.BLL.Logic</Name>
     </ProjectReference>
+    <ProjectReference Include="..\IUserDAO\Epam.UsersAwards.IDAO.csproj">
+      <Project>{c9d5b866-7a67-4aac-96d5-130fb2846b99}</Project>
+      <Name>Epam.UsersAwards.IDAO</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

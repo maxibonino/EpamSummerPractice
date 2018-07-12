@@ -7,15 +7,15 @@ namespace Entities
     {
         public int Id { get; set; }
 
-        public String Name { get; set; }
+        public string Name { get; set; }
 
         public DateTime BirthDate { get; set; }
 
         public int Age { get; set; }
 
         // Фотография пользователя
-        public Byte[] Photo { get; set; }
+        public byte[] Photo { get; set; }
 
-        public IList<Guid> _awards { get; set; }
+        public IList<int> _awards { get; set; }
     }
 }

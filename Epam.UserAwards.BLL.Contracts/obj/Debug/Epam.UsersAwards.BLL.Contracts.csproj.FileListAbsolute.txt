@@ -1,0 +1,8 @@
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\bin\Debug\Epam.UserAwards.BLL.Contracts.dll
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\bin\Debug\Epam.UserAwards.BLL.Contracts.pdb
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\bin\Debug\User.dll
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\bin\Debug\User.pdb
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\obj\Debug\Epam.UsersAwards.BLL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\obj\Debug\Epam.UsersAwards.BLL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\obj\Debug\Epam.UserAwards.BLL.Contracts.dll
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.BLL.Contracts\obj\Debug\Epam.UserAwards.BLL.Contracts.pdb

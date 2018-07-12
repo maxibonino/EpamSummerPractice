@@ -1,0 +1,1 @@
+C:\Users\Morpheus\source\repos\UserAwards\Epam.UserAwards.ConsoleUI\obj\Debug\Epam.UsersAwards.ConsoleUI.csproj.CoreCompileInputs.cache

@@ -49,6 +49,10 @@
       <Project>{ff5585b2-c862-40ba-ba6d-369babb46741}</Project>
       <Name>Epam.UsersAwards.BLL.Contracts</Name>
     </ProjectReference>
+    <ProjectReference Include="..\User\Epam.UsersAwards.Entities.csproj">
+      <Project>{df91051b-1025-481f-aa85-4ecb4a0c2c3e}</Project>
+      <Name>Epam.UsersAwards.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

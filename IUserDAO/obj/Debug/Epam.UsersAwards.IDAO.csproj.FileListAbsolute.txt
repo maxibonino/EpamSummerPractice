@@ -1,0 +1,8 @@
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\bin\Debug\IUserDAO.dll
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\bin\Debug\IUserDAO.pdb
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\bin\Debug\User.dll
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\bin\Debug\User.pdb
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\obj\Debug\Epam.UsersAwards.IDAO.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\obj\Debug\Epam.UsersAwards.IDAO.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\obj\Debug\IUserDAO.dll
+C:\Users\Morpheus\source\repos\UserAwards\IUserDAO\obj\Debug\IUserDAO.pdb
