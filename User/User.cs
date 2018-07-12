@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Entities
 {
@@ -12,6 +13,7 @@ namespace Entities
 
         public int Age { get; set; }
 
+        // Фотография пользователя
         public Byte[] Photo { get; set; }
 
         public IList<Guid> _awards { get; set; }

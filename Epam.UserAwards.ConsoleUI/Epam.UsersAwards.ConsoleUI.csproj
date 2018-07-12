@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Epam.UsersAwards.Container\Epam.UsersAwards.Containers.csproj">
+      <Project>{af99a8c5-8b85-450b-96ac-8b7d3204c0d6}</Project>
+      <Name>Epam.UsersAwards.Containers</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,8 +1,24 @@
-﻿using Epam.UserAwards.BLL.Contracts;
+﻿using Epam.UsersAwards.BLL.Contracts;
 
-namespace Epam.UserAwards.BLL.Logic
+namespace Epam.UsersAwards.BLL.Logic
 {
     public class AwardLogic : IAwardLogic
     {
+        private readonly IAwardDAO _awardDAO;
+
+        public AwardLogic(IAwardDAO awardDAO)
+        {
+            _awardDAO = awardDAO;
+        }
+
+        public bool EditDescription(int id)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public bool EditTitle(int id)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

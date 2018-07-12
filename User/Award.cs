@@ -10,6 +10,7 @@ namespace Entities
 
         public String Description { get; set; }
 
+        // Изображение награды/медали
         public Byte[] Image { get; set; }
     }
 }

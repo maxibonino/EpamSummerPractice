@@ -1,4 +1,4 @@
-﻿namespace Epam.UserAwards.BLL.Contracts
+﻿namespace Epam.UsersAwards.BLL.Contracts
 {
     public interface IEditPicture
     {

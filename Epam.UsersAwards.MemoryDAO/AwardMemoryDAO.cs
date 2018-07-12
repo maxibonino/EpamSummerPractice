@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Epam.UsersAwards.MemoryDAO
 {
-    public class MemoryDAO
+    class AwardMemoryDAO
     {
     }
 }

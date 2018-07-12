@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Epam.UserAwards.BLL.DAOs
+namespace Epam.UsersAwards.BLL.DAOs
 {
     public class AwardDAO
     {

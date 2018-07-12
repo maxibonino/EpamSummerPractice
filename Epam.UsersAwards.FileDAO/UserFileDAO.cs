@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Epam.UsersAwards.FileDAO
 {
-    public class FileDAO
+    public class UserFileDAO
     {
     }
 }
